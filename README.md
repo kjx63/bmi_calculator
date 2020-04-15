@@ -1,32 +1,31 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # BMI Calculator 💪
+- This app is a very simple BMI Calculator app that allows you to select your gender, height, age and the weight. Then based on your height and weight, this app calculates your BMI, and displays it to the next page with some of the quick advice for your healy. 
 
-## Our Goal
+The 6th App form  Angela Yu's Flutter course on Udemy.
+https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14485420#overview
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
 
 
-## What you will create
+## Contents 
+- Flutter Themes (https://flutter.dev/docs/cookbook/design/themes) (131)
+- ThemaData class (https://api.flutter.dev/flutter/material/ThemeData-class.html) (131)
+- Color class (https://api.flutter.dev/flutter/dart-ui/Color-class.html) (131)
+- Extracting Widgets(132 - 133)
+- Key Class (https://api.flutter.dev/flutter/foundation/Key-class.html) (132)
+- Final vs Const (https://dart.dev/guides/language/language-tour#final-and-const) (133)
+- Font Awesome (https://pub.dev/packages/font_awesome_flutter) (134)
+- Gesture Detector (https://api.flutter.dev/flutter/widgets/GestureDetector-class.html) (135)
+- Enums (136)
+- Ternary Operators (137)
+- Create a constants.dart file (138)
+-  Slider class (https://api.flutter.dev/flutter/material/Slider-class.html) (138)
+- Customise Widgets with Themes(140) / .of(context).copyWith => only provide the things you want to change() 
+- Build Flutter Widgets from Scratch (141) : RoundIconButton at the bottom.
+- MultiScreen Apps (https://flutter.dev/docs/cookbook/navigation/navigation-basics)(142)
+- Navigate with named routes (https://flutter.dev/docs/cookbook/navigation/named-routes)(142)
+- Maps () (143)
+- Dart.math <= Calculate the BMI
+### Source 
+Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-
-## What you will learn
-
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)

@@ -1,6 +1,10 @@
 
 # BMI Calculator 💪
-- This app is a very simple BMI Calculator app that allows you to select your gender, height, age and the weight. Then based on your height and weight, this app calculates your BMI, and displays it to the next page with some of the quick advice for your healy. 
+
+![screen_recording](https://user-images.githubusercontent.com/43631528/79336947-93696500-7f5f-11ea-9de6-7d147ca3c215.gif)
+
+
+- This app is a very simple BMI Calculator app from @Angela Yu that allows you to select your gender, height, age and the weight. Then based on your height and weight, this app calculates your BMI, and displays it to the next page with some of the quick advice for your healy. 
 
 The 6th App form  Angela Yu's Flutter course on Udemy.
 https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14485420#overview
